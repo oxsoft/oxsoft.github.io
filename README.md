@@ -1,2 +1,2 @@
 # GitHub Pages
-This repository is resource of http://oxsoft.github.io/
+This repository is resource of https://oxsoft.github.io/
